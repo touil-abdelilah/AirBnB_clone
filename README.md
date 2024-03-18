@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # AirBnB_clone
-=======
+
 # AirBnB Clone Command Interpreter
 
 Welcome to the AirBnB Clone project! This project aims to build a simplified version of AirBnB's backend functionality, focusing on managing objects such as users, listings, and bookings through a command-line interface.
